@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CirclePart
+  - GameOverPlatform
+  - Destructive
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Reflection
+  - Destructive
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 825019547
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2777304427
+    locked: 0
+  - name: CircleParts
+    uniqueID: 799016077
+    locked: 0
+  - name: Particles
+    uniqueID: 487503479
+    locked: 0
+  - name: Foreground
+    uniqueID: 1972968595
+    locked: 0
+  - name: UI
+    uniqueID: 326675973
+    locked: 0

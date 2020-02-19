@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 8ce164247d43eff40849de8017e383dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2460955007163883511
+    second: x4Default
+  - first:
+      213: -4423124803449832825
+    second: x8Default
+  - first:
+      213: -5745879573308023766
+    second: x16Default
+  - first:
+      213: -3239595975780733511
+    second: x4Spike
+  - first:
+      213: -3829224039730738614
+    second: x8Spike
+  - first:
+      213: -403498856345673738
+    second: x16Spike
+  - first:
+      213: -3497171806812084165
+    second: x4Gradient
+  - first:
+      213: 4988909154321132421
+    second: x8Gradient
+  - first:
+      213: -1289133245840774032
+    second: x16Gradient
+  - first:
+      213: 4325863017530330592
+    second: circlePartAtlas_9
+  - first:
+      213: -660344168589145786
+    second: circlePartAtlas_10
+  - first:
+      213: 67565985748702939
+    second: circlePartAtlas_11
+  - first:
+      213: 5132731051212992196
+    second: circlePartAtlas_12
+  - first:
+      213: 3661343909370532701
+    second: circlePartAtlas_13
+  - first:
+      213: 3449932746049557854
+    second: circlePartAtlas_14
+  - first:
+      213: -2460955007163883511
+    second: x4circlePartAtlas
+  - first:
+      213: -4423124803449832825
+    second: x8circlePartAtlas
+  - first:
+      213: -5745879573308023766
+    second: x16circlePartAtlas
+  - first:
+      213: -2460955007163883511
+    second: circlePartAtlas_0
+  - first:
+      213: -4423124803449832825
+    second: circlePartAtlas_1
+  - first:
+      213: -5745879573308023766
+    second: circlePartAtlas_2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: circlePartAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 114
+        height: 354
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08889cbc3c4fd0140aa1bff376d15c42
+      internalID: -2460955007163883511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circlePartAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 84
+        width: 74
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bbd35a0a968fb4b9c612c3acc860fc
+      internalID: -4423124803449832825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circlePartAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 134
+        width: 64
+        height: 89
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696ddafee2810f4db14e88943149f02
+      internalID: -5745879573308023766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b2533e08857a8340aae4aae09dfba10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
